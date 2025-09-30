@@ -1,0 +1,13 @@
+ osmnx
+geopandas
+pandas
+scikit-learn
+folium
+shapely
+rtree
+pyproj
+matplotlib
+branca
+dash
+plotly
+ 
