@@ -1,4 +1,4 @@
- osmnx
+osmnx
 geopandas
 pandas
 scikit-learn
@@ -10,4 +10,12 @@ matplotlib
 branca
 dash
 plotly
- 
+pandas 
+numpy 
+geopandas 
+folium 
+osmnx 
+scikit-learn 
+streamlit 
+streamlit-folium 
+branca

@@ -1,0 +1,5 @@
+id_evento,nome_evento,tipo_evento,localizacao,data_inicio,data_fim
+1,Carnaval de Rua,Público,Centro,2025-02-15 18:00:00,2025-02-18 04:00:00
+2,Show no Marco Zero,Público,"Marco Zero, Recife",2025-07-10 20:00:00,2025-07-10 23:30:00
+3,Festa Junina,Público,Olinda,2025-06-23 17:00:00,2025-06-24 02:00:00
+4,Jockey Club Evento,Privado,Várzea,2025-05-05 19:00:00,2025-05-05 23:00:00
